@@ -1,3 +1,5 @@
+![file_000000002ce4622f94ae3a97a077c1b3 (1)](https://github.com/user-attachments/assets/0732b67c-ba7d-4a09-bde0-cab25fb21a69)
+
 # marketing-mix-analysis-excel
 # Excel-Based Soda Sales Marketing Mix Modeling (MMM) Project
 
